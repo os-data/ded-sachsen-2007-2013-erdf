@@ -317,7 +317,7 @@
       "hash": "16b0099743383236bf7220e0f10eb077",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/ded-sachsen-2007-2013-erdf/concat.csv",
       "schema": {
         "fields": [
           {
