@@ -4,6 +4,11 @@
   "contributors": ["Michael Peters (michael.peters@okfn.de)"],
   "count_of_rows": 43137,
   "description": "The beneficiary list for the ERDF (2007-2013) program for Sachsen.",
+  "countryCode": "DE",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "geo": {
     "country": "DEUTSCHLAND",
     "country_code": "DE",
